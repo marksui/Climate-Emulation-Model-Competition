@@ -1,1 +1,1 @@
-# CSE-151B-Project
+# Climate-Emulation-Model-Competition
